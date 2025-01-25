@@ -10,7 +10,7 @@ Welcome to the **IP-I-Projects** repository! This collection showcases projects 
 ### 2. Tic-Tac-Toe Game  
    
 
-##  👥 Group Members
+##  👥 The Group Members
 
 | Name                   | ID             |
 |------------------------|----------------|
